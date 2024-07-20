@@ -32,7 +32,7 @@ using SampleConsoleApp;
 
 
 //Console.WriteLine("Program 5 - Constructor");
-//Constructor constructorSample=new Constructor("Passed Message is \"HELLO\"");
+//Constructor constructorSample = new Constructor();
 //constructorSample.Do();
 //Console.WriteLine();
 
@@ -89,7 +89,16 @@ using SampleConsoleApp;
 //FileHandling fH = new FileHandling();
 //fH.HandlingMethod();
 
-MemoryStreams msSample= new MemoryStreams();
-msSample.MSMethod();
+//MemoryStreams msSample= new MemoryStreams();
+//msSample.MSMethod();
 
+//Tuples tSample = new Tuples();
+//tSample.Main();
+
+
+//Tasks tSample = new Tasks();
+//tSample.Main();
+
+Threads tSample = new Threads();
+tSample.Main();
 Console.ReadKey();
