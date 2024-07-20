@@ -1,0 +1,2 @@
+C:\Users\320262235\source\repos\SampleConsoleApp\SampleConsoleApp\bin\Release\net6.0\publish\win-x64\SampleConsoleApp.pdb
+C:\Users\320262235\source\repos\SampleConsoleApp\SampleConsoleApp\bin\Release\net6.0\publish\win-x64\SampleConsoleApp.exe
